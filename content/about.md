@@ -2,16 +2,18 @@
 title = 'About'
 +++
 
-specialize in crypto(graphy) and interested in web3 security.
+Hi! I’m interested in cryptography and Web3 security, and through this blog I want to explore a wide range of topics, from basic concepts to advanced techniques, deep dives, and technical research.
+
+{{< image src="/img/hakid29.webp" alt="me" position="center" style="border: 8px solid #7e8edd;" >}}
 
 ## Education & Experience
 
 - 2022.03~ : [Korea University](https://www.korea.ac.kr/)
-- 2023~ : [CyKor](https://x.com/CyKorKU) regular member
+- 2023~current : [CyKor](https://x.com/CyKorKU) regular member
 - 2023.10~2024.12 : [thehackerscrew](https://ctftime.org/team/85618)
 - 2024.03~2024.07 : [Blockchain Valley](https://twitter.com/blockchainkor) Development team
 - 2024.07~2024.11 : [Upside Academy](https://upside.center/)
-- 2025.03~ : [Chainlight Researcher](https://chainlight.io/)
+- 2025.03~current : [Chainlight Researcher](https://chainlight.io/)
 
 ## Presentation
 
